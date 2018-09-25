@@ -11,6 +11,7 @@ namespace LapPractical1
             Console.Write("Enter a number : ");
             num = Console.ReadLine();
             numval = Convert.ToInt32(num);
+            Console.WriteLine();
             Console.WriteLine("*************************************");
             Console.WriteLine("|  The number you entered was : " + num + "  |");
             Console.WriteLine("*************************************");
